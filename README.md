@@ -1,6 +1,6 @@
 # sprunki
 Sprunki-Incredibox is an online music game where players can create their own beats and melodies by mixing different sound loops and vocal effects
-
+![sprunki-game-cover](img/sprunki.png)
 ## What is Sprunki Incredibox?
 
 Sprunki Incredibox is a popular mod for the Incredibox music game, inspired by a project originally created on the Scratch platform by NyankoBfLol. Due to its controversial content involving blood and gore, it was taken down but was later officially re-released on Incredimake, where it remains a fan-favorite mod today.
